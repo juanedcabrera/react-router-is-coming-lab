@@ -17,7 +17,7 @@ Using all you've learned about React Router, you should create an application th
 
 ## Step 0a: Get the Code
 
-Replace `App.css` with the following:
+* Replace `App.css` with the following:
 
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
@@ -52,7 +52,7 @@ Replace `App.css` with the following:
 }
 ```
 
-Replace `index.css` with the following:
+* Replace `index.css` with the following:
 
 ```css
 
